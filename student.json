@@ -1,0 +1,9 @@
+students=
+    {
+        'name':'Antoni',
+        'surname':'Nowak',
+        'age':20,
+        'bold':False,
+        'hobby':['swimming','football','basketball'],
+        'phone':{'landline':'532553242','mobile':'64268422'}
+        }
